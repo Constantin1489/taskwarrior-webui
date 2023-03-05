@@ -1,5 +1,7 @@
 # Taskwarrior-webui-reverted-41fabce
 
+This is a temporary solution to https://github.com/DCsunset/taskwarrior-webui/issues/68
+
 This won't be updated because of respecting the [original Github project](https://github.com/DCsunset/taskwarrior-webui).
 
 If there is a fix for the `41fabce` commit, I would mention it.
