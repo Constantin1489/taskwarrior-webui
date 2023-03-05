@@ -1,3 +1,11 @@
+# Taskwarrior-webui-reverted-41fabce
+
+This won't be updated because of respecting the [original Github project](https://github.com/DCsunset/taskwarrior-webui).
+
+If there is a fix for the `41fabce` commit, I would mention it.
+
+The forked repo I made is [here which is archived.](https://github.com/Constantin1489/taskwarrior-webui)
+
 # Taskwarrior-webui
 
 [![Docker Image Size](https://badgen.net/docker/size/dcsunset/taskwarrior-webui)](https://hub.docker.com/r/dcsunset/taskwarrior-webui)
